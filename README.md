@@ -1,6 +1,6 @@
 # 🦇 Hey there! I'm Celina
 <p align="center">
-  <img src="https://github.com/CelinaBenedito/CelinaBenedito/blob/main/BannerCelina.png" width="800" alt="Celina Banner">
+  <img src="https://github.com/CelinaBenedito/CelinaBenedito/blob/main/BannerCelina.png" width="800" alt="Celina Banner" style="border-radius: 20px;>
 </p>
 
 I'm a Computer Science student at **São Paulo Tech School (SPTech)** who loves bringing ideas to life through code.  
