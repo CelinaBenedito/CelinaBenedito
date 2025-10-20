@@ -1,4 +1,7 @@
 # 🦇 Hey there! I'm Celina
+<p align="center">
+  <img src="https://github.com/CelinaBenedito/CelinaBenedito/blob/main/BannerCelina.png" width="800" alt="Celina Banner">
+</p>
 
 I'm a Computer Science student at **São Paulo Tech School (SPTech)** who loves bringing ideas to life through code.  
 I’m passionate about technology, games, and everything that mixes creativity with a touch of darkness 👻  
